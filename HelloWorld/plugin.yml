@@ -1,0 +1,7 @@
+main: me.Tanishq.HelloWorld.Main
+name: HelloWorld
+version: 1.0
+author: Tanishq Mor
+
+commands:
+  Hello:
